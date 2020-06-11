@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+Kyojin
 
-You can use the [editor on GitHub](https://github.com/Kyojins/kyojins.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+!This Is Still In Beta!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Im Still Adding More Commands!
 
-### Markdown
+### Prerequists
+Have Python And Git Installed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+## Installation
+1) Get Your Discord Token
+2) Paste your Token and Discord Password In config.json here:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+`
+{
+    "token": "TokenHere",
+    "password": "password-here",
+}
+`
+3) Run Install.bat
+4) Run Launch.bat
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here Are The [Commands](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Disclaimer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kyojins/kyojins.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Again, im still currently working on it and adding more commands, i will update the respitory if anything new.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Enjoy
